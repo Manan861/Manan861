@@ -1,6 +1,6 @@
-# 🎸 Hey!!
+# Hey!
 
-Hey, I'm Manan, a computer science student at Northeastern who's always somewhere between building AI tools, arguing about F1 race strategy, playing soccer, and hunting for underground electronic music nobody's heard of. ⚽ I love building things that actually make a difference, ideally while having a little fun (and maybe a good playlist) along the way.
+I'm Manan, a computer science student at Northeastern who's always somewhere between building AI tools, arguing about F1 race strategy, playing soccer, and hunting for underground electronic music nobody's heard of. ⚽ I love building things that actually make a difference, ideally while having a little fun (and maybe a good playlist) along the way.
 
 ---
 
