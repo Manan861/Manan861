@@ -27,15 +27,6 @@ Hey, I'm Manan, a computer science student at Northeastern who's always somewher
 
 ---
 
-## 📊 GitHub Stats:
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Manan861&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan861&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manangangwani)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangwani.m@northeastern.edu)
 <!---
